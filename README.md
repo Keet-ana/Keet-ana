@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keerthana Gopinathan
 - 👀 I’m interested in Writing.
 - 🌱 I’m currently learning Data science and Machine learning.
-- 😄 Pronouns: He/She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
