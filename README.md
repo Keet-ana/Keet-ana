@@ -2,7 +2,7 @@
 - 👀 I’m interested in Writing.
 - 🌱 I’m currently learning Data science and Machine learning.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There's nothing about me is "FUN"
 
 <!---
 Keet-ana/Keet-ana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
