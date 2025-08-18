@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthana Gopinathan
 - 👀 I’m interested in Writing.
-- 🌱 I’m currently learning Data science and Machine learning.
+- 🌱 I’m currently doing nothing.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: There's nothing about me is "FUN"
 
